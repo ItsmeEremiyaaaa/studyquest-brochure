@@ -10,7 +10,7 @@ A 3D, flip-through version of the StudyQuest trifold brochure.
 
 Play StudyQuest: https://studyquest-a547c.web.app
 
-A capstone project by BSIT students of St. Mary's College of Bansalan, Inc.
+An app development project by BSIT students of St. Mary's College of Bansalan, Inc.
 
 ## Publish with GitHub Pages
 Settings → Pages → Source: *Deploy from a branch* → Branch: `main` / root → Save.
